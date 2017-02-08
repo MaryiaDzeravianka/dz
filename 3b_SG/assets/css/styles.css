@@ -1,0 +1,39 @@
+body {
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 10px 10px 10px 10px;
+}
+
+h1 {
+  
+  font-size: 36px;
+  letter-spacing: 3px;
+  text-align: center
+}
+
+h2 {
+  
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+p {
+  
+  text-indent: 25px;
+  text-align: justify;
+  font-size: 20px;
+}
+
+.green li{
+  
+  list-style-type: square;
+    font-size: 20px;
+  color: green;
+  
+}
+.blue{
+  color: blue;
+}
+.red{
+   color: red;
+}

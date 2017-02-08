@@ -1,0 +1,25 @@
+body {
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 10px 10px 10px 10px;
+}
+
+h1 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 36px;
+  letter-spacing: 3px;
+  text-align: center
+}
+
+h2 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 24px;
+  letter-spacing: 3px;
+}
+
+p {
+  font-family: 'Cormorant', serif;
+  text-indent: 25px;
+  text-align: justify;
+  font-size: 20px;
+}
